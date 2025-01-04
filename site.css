@@ -663,13 +663,13 @@ footer {
     }
 
     h2{
-        font-size: 30px;
+        font-size: 35px;
     }
 
     h2:hover{
-        font-size: 50px;
+        font-size: 40px;
     }
-    button{
+    .banner button{
         padding: 2px 8px;
         font-size: 8px;
     }
@@ -715,7 +715,7 @@ footer {
         font-size: 12px;
     }
     .banner2 h2{
-        font-size: 50px;
+        font-size: 35px;
         margin-top: 30px;
     }
 .menu-nav{ 
