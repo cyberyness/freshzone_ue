@@ -194,7 +194,7 @@ h2:hover {
     padding-bottom: 10px;
 }
 
-.items-container { /*  za nachalnata stranica */
+.items-container { /*za nachalnata stranica */
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -210,7 +210,7 @@ h2:hover {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    width: 40%;
+    width: 45%;
     text-align: center;
     background-color: #fff;
     padding: 40px;
@@ -235,7 +235,7 @@ h2:hover {
 
 .product {
     text-align: center;
-    width: 200px;
+    width: 170px;
 }
 
 .history-container {
@@ -397,7 +397,6 @@ h3 {
     color: #6c757d;
 }
 
-
 .section-container { /* kontakti */
     display: flex;
     flex-direction: row; 
@@ -449,10 +448,6 @@ button:hover {
     background-color: #45a049;
 }
 
-
-
-
- 
 .gallery {
     padding: 20px;
     text-align: center;
@@ -474,7 +469,7 @@ button:hover {
 }
 
 .modal {
-    display: none; /* Initially hidden */
+    display: none;
     position: fixed;
     top: 0;
     left: 0;
@@ -600,7 +595,6 @@ footer {
     color:#a8a8a8
 }
 
-
 .footer-bottom {
     display: flex;
     justify-content: center;
@@ -625,10 +619,12 @@ footer {
     .header{
         height: 70px;
     }
+
     .logo img {
         margin-top: 5px;
         width: 60px;
     }
+
     h1{
         display: none;
     }
@@ -707,6 +703,10 @@ footer {
 
     .item iframe{
         width: 100%;
+    }
+    .product {
+        text-align: center;
+        width: 150px;
     }
 
     .banner2{
@@ -819,5 +819,4 @@ footer {
         margin: 3px 0;
         font-size: 15px;
     }
-
  }

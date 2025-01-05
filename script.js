@@ -14,7 +14,6 @@ if (modal && modalImg) {
     });
 }
 
-
 const menuIcon = document.querySelector(".menu-icon");
 const navbar = document.querySelector(".navbar");
 
